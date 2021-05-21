@@ -392,6 +392,8 @@ def currency_for_country(country)
     'eur'
   when 'au'
     'aud'
+  when 'sg'
+    'sgd'
   when 'gb'
     'gbp'
   when 'in'
@@ -412,7 +414,7 @@ def payment_methods_for_country(country)
   when 'nl'
     %w[card ideal sepa_debit sofort]
   when 'au'
-    %w[card au_becs_debit]
+    %w[alipay card au_becs_debit]
   when 'gb'
     %w[card paypal bacs_debit]
   when 'es', 'it'
