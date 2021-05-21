@@ -5,7 +5,7 @@
   "keywords": ["ios", "stripe"],
   "env": {
     "STRIPE_TEST_SECRET_KEY": {
-      "description": "sk_test_51IXPVJG74bmM3Mo9IA1otYwnb2vZJngeHychhuo7fCzyAi6ZK86BSeTJtXPX6ov1remeZ91C4Z0yvP4VukRDMXaT00mPX9R7j6",
+      "description": "pk_test_51IXPVJG74bmM3Mo9CcWsWhsoOgZq2ltaKYRpAhZioUvGhZQGRxS69rDFpmi0ArIqial7BConuoyhUTBRERajcdjQ00pRP0NSXq",
       "required": true
     }
   },
